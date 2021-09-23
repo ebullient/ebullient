@@ -1,2 +1,3 @@
 - ⚡ [ebullient](https://www.merriam-webster.com/dictionary/ebullient) is a word, and all of its definitions apply to me.
 - 😄 Pronouns: she/her/hers
+- I work at Red Hat, and enjoy [making](https://github.com/ebullient/monster-combat) [ridiculous](https://github.com/gameontext) [things](https://github.com/ebullient/fc5-convert-cli).
